@@ -1,4 +1,4 @@
-# Vendor_Onboarding_Portal
+# Vendor_Onboarding_Portal using MySQL 
 
 Author: Apurva Nair
 
